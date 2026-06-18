@@ -5,7 +5,19 @@
 🔗 **Live page:** [helpinghands.fr/don-helping-hands](https://helpinghands.fr/don-helping-hands/)
 
 ---
-
+## 🌍 About Helping Hands
+ 
+[Helping Hands](https://helpinghands.fr) is a French humanitarian nonprofit founded in **2015 by Luciana La Marca**, in the wake of the devastating earthquake that struck Nepal on April 25, 2015 — a magnitude 7.8 disaster that killed over 9,000 people and left 1.5 million children without a school.
+ 
+From that emergency was born a simple conviction: **rebuilding buildings is not enough — you have to rebuild lives.**
+ 
+Since then, Helping Hands supports the most vulnerable children by acting on what directly conditions their schooling: school fees, supplies, access to water, food, and local support. The association currently operates in:
+ 
+- 🇲🇬 **Madagascar** — Supporting 155 children at the Lovasoa school in Antsirabé (meals, supplies, infrastructure)
+- 🇳🇵 **Nepal** — Sponsoring children and rebuilding schools since 2015
+- 🇵🇭 **Philippines** — Educational inclusion project in Limbauan
+> *"Our goal is simple: give the most fragile children the means to learn, dream, and succeed."*
+ 
 ## 📌 Project Overview
 
 | | |
@@ -106,3 +118,5 @@ Inspired by **Save the Children**'s donation UX:
 
 *Souhaib Belmaksene — Technical Volunteer, Helping Hands*  
 *June 2026*
+<img width="1469" height="798" alt="Screenshot 2026-06-18 at 6 49 55 PM" src="https://github.com/user-attachments/assets/e7b0f16f-c07d-4c54-b698-bd585badcdc0" />
+<img width="1470" height="956" alt="Screenshot 2026-06-16 at 7 32 35 PM" src="https://github.com/user-attachments/assets/27f3a991-2b05-487f-8eae-74a56ccf0e52" />
